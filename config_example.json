@@ -1,0 +1,7 @@
+{
+    "username": "string",
+    "password": "string",
+    "usernames": [
+        "string"
+    ]
+}

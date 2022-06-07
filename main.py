@@ -69,7 +69,7 @@ def get_mini_times(cookie, output):
         csvwriter = csv.writer(csvfile)              
         csvwriter.writerows(row) 
 
-
+#boom
 if __name__ == '__main__':
     config = get_config()
     cookie = config['cookie']#login(config["username"], config["password"])
